@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pancacake
 - 👀 I’m interested in machine learning and communicating between different terminals
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by emailing: 13051345080@163.com
 
 <!---
