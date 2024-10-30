@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pancacake
-- 👀 I’m interested in machine learning and communicating between different terminals
-- 🌱 I’m currently learning deep learning
-- 📫 Reach me by emailing: 13051345080@163.com
+- 👀 I’m interested in machine learning and data processes
+- 🌱 I’m currently learning Neural Network
+- 📫 Reach me by emailing: 23721035@bjtu.edu.cn
 
 <!---
 pancacake/pancacake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
